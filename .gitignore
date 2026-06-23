@@ -1,0 +1,31 @@
+# Data
+data/raw/
+data/
+results/
+*.bam
+*.bai
+*.bedGraph
+*.bw
+*.fastq.gz
+
+# STAR / BWA / indexes
+star_index/
+*.sa
+*.ann
+*.amb
+*.bwt
+*.pac
+*.fai
+
+# Logs
+*.log
+logs/
+
+# Environment and editor files
+.env
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+.vscode/
+.idea/
