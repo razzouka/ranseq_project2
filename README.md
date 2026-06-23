@@ -1,4 +1,4 @@
-# hic_project2
+# rnaseq_project2
 An educational project completed during the university course "Analysis methods of structural and functional chromatin organization"
 
 This repository contains the scripts and notes for a transcriptomics practice focused on aligning RNA-seq and CAGE-seq reads, generating BAM and coverage tracks, and visualizing them in IGV.
